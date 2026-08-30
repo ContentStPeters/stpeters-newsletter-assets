@@ -1,0 +1,3 @@
+# Nothing here is browsable and nothing is indexed.
+User-agent: *
+Disallow: /
